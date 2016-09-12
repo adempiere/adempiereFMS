@@ -19,3 +19,6 @@
 - Cost accruals and revenue recognition  
 
 
+![alt tag](https://raw.githubusercontent.com/adempiere/adempiereFMS/master/org.eevolution.fleet/doc/FMMenu.png)
+
+
